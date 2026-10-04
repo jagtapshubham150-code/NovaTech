@@ -1,0 +1,6 @@
+{
+  "name": "AI Daily Helper",
+  "description": "Everyday AI utility for chat, writing, translation, voice notes, OCR, and smart planning with Marathi, Hindi, and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
